@@ -1,6 +1,6 @@
 {
 .appVersion = "3072";
-copyright = "Copyright 2018-2022 The Noto Project Authors (https://github.com/googlefonts/noto-source/)";
+copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elbasan)";
 customParameters = (
 {
 name = glyphOrder;
@@ -123,11 +123,11 @@ value = "Designed by Monotype design team.";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -139,7 +139,7 @@ value = "Noto is a trademark of Google Inc.";
 },
 {
 name = versionString;
-value = "Version 2.003";
+value = "Version 2.004";
 }
 );
 date = "2021-12-16 18:42:46 +0000";
@@ -4354,5 +4354,5 @@ manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 3;
+versionMinor = 4;
 }
