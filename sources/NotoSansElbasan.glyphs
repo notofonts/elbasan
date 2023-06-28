@@ -150,7 +150,7 @@ disablesNiceNames = 1;
 familyName = "Noto Sans Elbasan";
 featurePrefixes = (
 {
-code = "languagesystem elba dflt;\012languagesystem grek dflt;\012";
+code = "languagesystem DFLT dflt;\012languagesystem elba dflt;\012languagesystem grek dflt;\012";
 name = Languagesystems;
 }
 );
