@@ -1,5 +1,5 @@
 {
-.appVersion = "3072";
+.appVersion = "3202";
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elbasan)";
 customParameters = (
 {
@@ -156,7 +156,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub [Chi Delta Epsilon Gamma Pi Tau Upsilon Xi Zeta uni03DC uni03DE uni25CC] overlinecmb' by overlinecmb.w1;\012sub [Alpha Beta Kappa Lambda Rho Sigma uni03DA] overlinecmb' by overlinecmb.w2;\012sub [Eta Theta Nu Omicron] overlinecmb' by overlinecmb.w3;\012sub [Mu Phi Psi Omega] overlinecmb' by overlinecmb.w4;\012";
+code = "sub [Chi Delta Epsilon Gamma Pi Tau Upsilon Xi Zeta uni03DC uni03DE uni25CC u10527] overlinecmb' by overlinecmb.w1;\012sub [Alpha Beta Kappa Lambda Rho Sigma uni03DA uni03E0 u1051F u10513 u1050D u10506 u1050C u1051D u10503 u10511 u10510] overlinecmb' by overlinecmb.w2;\012sub [Eta Theta Nu Omicron] overlinecmb' by overlinecmb.w3;\012sub [Mu Phi Psi Omega u1050B ] overlinecmb' by overlinecmb.w4;\012";
 name = ccmp;
 }
 );
@@ -314,9 +314,15 @@ unicode = 00A0;
 },
 {
 glyphname = u10500;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{317, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -382,9 +388,15 @@ unicode = 10500;
 },
 {
 glyphname = u10501;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{296, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -445,9 +457,15 @@ unicode = 10501;
 },
 {
 glyphname = u10502;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{301, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -508,9 +526,15 @@ unicode = 10502;
 },
 {
 glyphname = u10507;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{290, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -558,9 +582,15 @@ unicode = 10507;
 },
 {
 glyphname = u10511;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{350, 714}";
+}
+);
 components = (
 {
 name = u10510;
@@ -593,9 +623,15 @@ unicode = 10511;
 },
 {
 glyphname = u10512;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -639,9 +675,15 @@ unicode = 10512;
 },
 {
 glyphname = u10513;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{324, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -687,9 +729,15 @@ unicode = 10513;
 },
 {
 glyphname = u10519;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -733,9 +781,15 @@ unicode = 10519;
 },
 {
 glyphname = u10517;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -775,9 +829,15 @@ unicode = 10517;
 },
 {
 glyphname = u10516;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{304, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -822,9 +882,15 @@ unicode = 10516;
 },
 {
 glyphname = u10506;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{333, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -869,9 +935,15 @@ unicode = 10506;
 },
 {
 glyphname = u1051A;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{304, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -932,9 +1004,15 @@ unicode = 1051A;
 },
 {
 glyphname = u10518;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{339, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -998,9 +1076,15 @@ unicode = 10518;
 },
 {
 glyphname = u10503;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{326, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1058,9 +1142,15 @@ unicode = 10503;
 },
 {
 glyphname = u10504;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1100,9 +1190,15 @@ unicode = 10504;
 },
 {
 glyphname = u10505;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{304, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1159,9 +1255,15 @@ unicode = 10505;
 },
 {
 glyphname = u10508;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{282, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1216,9 +1318,15 @@ unicode = 10508;
 },
 {
 glyphname = u10509;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{299, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1275,9 +1383,15 @@ unicode = 10509;
 },
 {
 glyphname = u1050A;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{299, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1344,9 +1458,15 @@ unicode = 1050A;
 },
 {
 glyphname = u1051B;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{287, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1390,9 +1510,15 @@ unicode = 1051B;
 },
 {
 glyphname = u1050B;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{420, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1459,9 +1585,15 @@ unicode = 1050B;
 },
 {
 glyphname = u1050C;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{376, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1526,9 +1658,15 @@ unicode = 1050C;
 },
 {
 glyphname = u1050D;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{324, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1574,9 +1712,15 @@ unicode = 1050D;
 },
 {
 glyphname = u1050E;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{145, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1606,9 +1750,15 @@ unicode = 1050E;
 },
 {
 glyphname = u1050F;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{298, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1643,9 +1793,15 @@ unicode = 1050F;
 },
 {
 glyphname = u10510;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{350, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1689,9 +1845,15 @@ unicode = 10510;
 },
 {
 glyphname = u10514;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{263, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1751,9 +1913,15 @@ unicode = 10514;
 },
 {
 glyphname = u10515;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{248, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1788,9 +1956,15 @@ unicode = 10515;
 },
 {
 glyphname = u1051C;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1839,9 +2013,15 @@ unicode = 1051C;
 },
 {
 glyphname = u1051D;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{337, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1885,9 +2065,15 @@ unicode = 1051D;
 },
 {
 glyphname = u1051E;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{277, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -1947,9 +2133,15 @@ unicode = 1051E;
 },
 {
 glyphname = u1051F;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{320, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2019,9 +2211,15 @@ unicode = 1051F;
 },
 {
 glyphname = u10520;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{308, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2065,9 +2263,15 @@ unicode = 10520;
 },
 {
 glyphname = u10521;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{310, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2126,9 +2330,15 @@ unicode = 10521;
 },
 {
 glyphname = u10522;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{278, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2211,9 +2421,15 @@ unicode = 10522;
 },
 {
 glyphname = u10523;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{296, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2277,9 +2493,15 @@ unicode = 10523;
 },
 {
 glyphname = u10524;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{273, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2340,9 +2562,15 @@ unicode = 10524;
 },
 {
 glyphname = u10525;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{298, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2386,9 +2614,15 @@ unicode = 10525;
 },
 {
 glyphname = u10526;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{298, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -2423,9 +2657,15 @@ unicode = 10526;
 },
 {
 glyphname = u10527;
-lastChange = "2018-03-12 19:50:51 +0000";
+lastChange = "2023-06-28 11:00:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{294, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -3798,9 +4038,15 @@ subCategory = Uppercase;
 },
 {
 glyphname = uni03E0;
-lastChange = "2022-04-18 09:22:09 +0000";
+lastChange = "2023-06-28 11:00:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = Anchor2;
+position = "{257, 714}";
+}
+);
 layerId = UUID0;
 paths = (
 {
